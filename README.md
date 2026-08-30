@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header" width="100%"/>
 
 <table>
 <tr>
@@ -19,7 +19,7 @@
 </tr>
 </table>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=700&size=26&duration=2800&pause=900&color=B76CFD&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=90&lines=AI%2FML+%26+Generative+AI+Engineer+%F0%9F%A4%96;Agentic+AI+%7C+DSA+%7C+Java+Developer+%F0%9F%A7%A0;Building+Intelligent+Systems+That+Think+%E2%9A%A1" />
+<p align="center"><b>AI/ML &amp; Generative AI Engineer</b> &nbsp;|&nbsp; Agentic AI &nbsp;|&nbsp; DSA &nbsp;|&nbsp; Java</p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=i-Anurag1&label=PROFILE+VIEWS&color=B76CFD&style=for-the-badge"/>
@@ -35,20 +35,25 @@
 
 <br/>
 
+
 <img align="right" width="300" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/coding.gif"/>
 
-## 👋 About Me
+## About Me
 
-```yaml
-anurag_thakur:
-  role: "AI/ML & Generative AI Engineer"
-  based_in: "Vellore, Tamil Nadu, India 🇮🇳"
-  currently_building: "AI/ML models, Generative AI apps & Agentic AI systems"
-  currently_learning: ["Agentic AI", "Generative AI", "Advanced DSA", "Backend Development"]
-  open_to_collaborate: "AI/ML projects, Gen AI tools, agentic workflows, backend systems"
-  looking_for_help_with: "Agentic AI architectures, advanced DSA, production-grade ML pipelines"
-  ask_me_about: ["DSA", "AI/ML", "Generative AI", "Agentic AI", "Java", "Backend Development"]
-  fun_fact: "I enjoy solving complex problems and optimizing code until it hurts (in a good way) ⚡"
+```bash
+$ whoami
+> AI/ML & Generative AI Engineer — engineering intelligent systems at the
+  intersection of Machine Learning, Generative AI, and Autonomous Agents.
+
+$ cat focus.txt
+  Building          → AI/ML models, Generative AI apps, multi-agent systems
+  Deepening in      → Agentic AI architecture, Generative AI, advanced DSA
+  Open to           → AI/ML research, Gen AI tooling, agentic workflows
+  Exploring further → Production-grade ML pipelines, agentic system design
+  Location          → Vellore, Tamil Nadu, India
+
+$ echo $PHILOSOPHY
+"I optimize code until it stops complaining — then I optimize it a bit more."
 ```
 
 <br clear="both"/>
@@ -113,8 +118,8 @@ Backend Dev        ██████████████████░░�
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=i-Anurag1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=github&border_radius=10"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-Anurag1&layout=compact&theme=radical&border_radius=10"/>
+<img height="175em" src="https://github-stats-extended.vercel.app/api?username=i-Anurag1&show_icons=true&theme=radical&rank_icon=github&border_radius=10&cache_seconds=1800"/>
+<img height="175em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=i-Anurag1&layout=compact&theme=radical&border_radius=10&cache_seconds=1800"/>
 </div>
 
 <div align="center">
@@ -129,6 +134,8 @@ Backend Dev        ██████████████████░░�
 <img src="https://github-profile-trophy.vercel.app/?username=i-Anurag1&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 </div>
 
+> 💡 The old `github-readme-stats.vercel.app` public instance has been repeatedly paused by its maintainer due to cost/rate-limit issues (this is a widely-reported, ongoing problem — not specific to your profile). All cards above now use **[github-stats-extended](https://github-stats-extended.vercel.app)**, the actively-maintained, more stable successor the original project's own docs now recommend.
+
 ---
 
 <h2 align="center">🚀 Projects</h2>
@@ -141,7 +148,7 @@ Backend Dev        ██████████████████░░�
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ⭐ Most-starred repo — a finance-focused Python project.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=i-Anurag1&repo=Fintoran&theme=radical&hide_border=true"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=i-Anurag1&repo=Fintoran&theme=radical&hide_border=true"/>
 
 </td>
 <td width="50%">
@@ -150,7 +157,7 @@ Backend Dev        ██████████████████░░�
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 An offline-first payments concept, built in Java.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=i-Anurag1&repo=OffPay&theme=radical&hide_border=true"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=i-Anurag1&repo=OffPay&theme=radical&hide_border=true"/>
 
 </td>
 </tr>
@@ -161,7 +168,7 @@ An offline-first payments concept, built in Java.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 A sensing & analytics-oriented Python tool.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=i-Anurag1&repo=drift-sense&theme=radical&hide_border=true"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=i-Anurag1&repo=drift-sense&theme=radical&hide_border=true"/>
 
 </td>
 <td width="50%">
@@ -170,7 +177,7 @@ A sensing & analytics-oriented Python tool.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 Agentic AI financial co-pilot — multi-agent LangGraph system with ML credit scoring, RAG-grounded financial literacy, and UPI intelligence.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=i-Anurag1&repo=arthamitra&theme=radical&hide_border=true"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=i-Anurag1&repo=arthamitra&theme=radical&hide_border=true"/>
 
 </td>
 </tr>
@@ -181,7 +188,7 @@ Agentic AI financial co-pilot — multi-agent LangGraph system with ML credit sc
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 My DSA & competitive programming practice vault.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=i-Anurag1&repo=leetcode-solutions&theme=radical&hide_border=true"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=i-Anurag1&repo=leetcode-solutions&theme=radical&hide_border=true"/>
 
 </td>
 </tr>
@@ -195,11 +202,14 @@ My DSA & competitive programming practice vault.
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </div>
 
-<h2 align="center">🔝 Top Contributed Repo</h2>
+<h2 align="center">🔝 At a Glance</h2>
 
 <div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=i-Anurag1&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
+<img src="https://img.shields.io/github/stars/i-Anurag1?style=for-the-badge&color=B76CFD&label=Total%20Stars"/>
+<img src="https://img.shields.io/github/last-commit/i-Anurag1/Fintoran?style=for-the-badge&color=6c5ce7&label=Last%20Push%20(Fintoran)"/>
 </div>
+
+> ℹ️ Swapped the old "Top Contributed Repo" widget (`github-contributor-stats.vercel.app`) for shields.io badges above — that widget's server goes down often and was the source of the broken small image you saw. Shields.io pulls directly from the GitHub API and is far more reliable.
 
 ---
 
@@ -215,4 +225,3 @@ My DSA & competitive programming practice vault.
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer"/>
-

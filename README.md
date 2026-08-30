@@ -123,20 +123,12 @@ Backend Dev        ██████████████████░░�
 </div>
 
 <div align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=i-Anurag1&theme=radical&border_radius=10"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/i-Anurag1&label=Public%20Repos&query=$.public_repos&color=B76CFD&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/i-Anurag1?style=for-the-badge&color=6c5ce7&label=Followers"/>
 </div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=i-Anurag1&theme=redical&hide_border=true&area=true" width="100%"/>
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=i-Anurag1&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-</div>
-
-> 💡 The old `github-readme-stats.vercel.app` public instance has been repeatedly paused by its maintainer due to cost/rate-limit issues (this is a widely-reported, ongoing problem — not specific to your profile). All cards above now use **[github-stats-extended](https://github-stats-extended.vercel.app)**, the actively-maintained, more stable successor the original project's own docs now recommend.
 
 ---
+
 
 <h2 align="center">🚀 Projects</h2>
 
@@ -225,3 +217,4 @@ My DSA & competitive programming practice vault.
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer"/>
+

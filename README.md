@@ -168,11 +168,11 @@ A sensing & analytics-oriented Python tool.
 </td>
 <td width="50%">
 
-### 📈 [Amazon Sales Trend Analysis (AI)](https://github.com/i-Anurag1/Amazon_Sales_Trend_Analysis_AI)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-AI-driven analysis of Amazon sales trends.
+### 💸 [ArthaMitra](https://github.com/i-Anurag1/arthamitra)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+Agentic AI financial co-pilot — multi-agent LangGraph system with ML credit scoring, RAG-grounded financial literacy, and UPI intelligence.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=i-Anurag1&repo=Amazon_Sales_Trend_Analysis_AI&theme=radical&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=i-Anurag1&repo=arthamitra&theme=radical&hide_border=true"/>
 
 </td>
 </tr>

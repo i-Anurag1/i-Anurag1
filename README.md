@@ -1,27 +1,195 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Building scalable full-stack applications and improving problem-solving skills<br>👯 I’m looking to collaborate on<br>Open-source projects, backend systems, and real-world impactful apps<br>🤝 I’m looking for help with<br>System design, advanced DSA, and scalable architecture<br>🌱 I’m currently learning<br>Data Structures & Algorithms, Backend Development, and System Design<br>💬 Ask me about<br>DSA, C++, Web Development, and Competitive Programming<br>⚡ Fun fact<br>I enjoy solving complex problems and optimizing code for performance
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=ANURAG%20THAKUR&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=A%20Code%20Odyssey%20|%20Now%20Streaming&descAlignY=55&descSize=20&rotate=false" width="100%"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-thakur-668378321) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anuragthakur27108@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=700&size=28&duration=3000&pause=800&color=B76CFD&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%8E%AC+EPISODE+I%3A+THE+DEVELOPER+AWAKENS;%F0%9F%A7%A0+GENRE%3A+DSA+%2B+SYSTEM+DESIGN+%2B+CHAOS;%F0%9F%9A%80+RATED%3A+PG-13+(Pretty+Good+Code)" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=i-Anurag1&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=i-Anurag1&theme=shades-of-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=i-Anurag1&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=i-Anurag1&theme=shades-of-purple&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rocket.gif" width="100%" height="3px"/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<h3 align="center">🎥 NOW SCREENING 🎥</h3>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=i-Anurag1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+<table>
+<tr>
+<td align="center" width="100%">
+
+```
+  ▄████████ ███▄▄▄▄      ███      ▄███████▄    ▄████████    ▄██████▄     ▄██████▄  
+ ███    ███ ███▀▀▀██▄ ▀█████████▄ ██▀     ▄██ ███    ███   ███    ███   ███    ███ 
+ ███    ███ ███   ███    ▀███▀▀██       ▄███▀ ███    ███   ███    ███   ███    █▀  
+ ███    ███ ███   ███     ███   ▄▄  ▀█▀▄███▀▄▄ ███    ███   ███    ███  ▄███        
+▀███████████ ███   ███     ███  ▀▀ ▄███▀▀▀███  ███    ███ ▀███████████ ▀▀███ ████▄  
+  ███    ███ ███   ███     ███    ▄███   ███   ███    ███   ███    ███    ███    ███ 
+  ███    ███ ███   ███     ███    ███▄   ███   ███    ███   ███    ███    ███    ███ 
+  ███    █▀   ▀█   █▀     ▄████▀   ▀████▀███▄  ████████▀    ███    █▀    ████████▀  
+```
+
+</td>
+</tr>
+</table>
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=i-Anurag1&label=BOX%20OFFICE%20(Profile%20Views)&color=B76CFD&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/i-Anurag1?label=FAN%20CLUB&style=for-the-badge&color=6c5ce7"/>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/anurag-thakur-668378321"><img src="https://img.shields.io/badge/LinkedIn-Contact%20the%20Director-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:anuragthakur27108@gmail.com"><img src="https://img.shields.io/badge/Email-Send%20Fan%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=i-Anurag1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎬 ACT I — THE ORIGIN STORY
+
+<img align="right" width="320" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/coding.gif"/>
+
+> *In a world of infinite loops and merge conflicts, one developer dared to `git commit` to greatness.*
+
+```yaml
+protagonist:
+  name: Anurag Thakur
+  location: Vellore, Tamil Nadu, India 🇮🇳
+  origin_story: "Started with 'Hello World', never looked back"
+  current_arc: "Building scalable full-stack applications"
+  side_quest: "Mastering DSA & System Design"
+  power_looking_for: "Collaborators for open-source & backend systems"
+  weakness: "Can't resist optimizing code that already works"
+  catchphrase: "It works on my machine 🚀"
+```
+
+<br clear="both"/>
+
+---
+
+## 🎬 ACT II — THE TRAINING MONTAGE
+
+<div align="center">
+
+### 🥋 Weapons Mastered
+
+<img src="https://skillicons.dev/icons?i=c,cs,cpp,java,kotlin,r,ts,html,css,go&theme=dark&perline=10"/>
+
+### ☁️ Allies & Deployment Bases
+
+<img src="https://skillicons.dev/icons?i=vercel,netlify,firebase,aws,git,github&theme=dark&perline=10"/>
+
+### 🧪 The Secret Lab (AI / ML / Data)
+
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv&theme=dark&perline=10"/>
+
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=Matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white"/>
+
+### ⛓️ Web3 Artifacts
+
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+
+</div>
+
+---
+
+## 🎬 ACT III — THE BOSS FIGHT (a.k.a. My GitHub Stats)
+
+<div align="center">
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=i-Anurag1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=github&border_radius=10"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-Anurag1&layout=compact&theme=radical&border_radius=10"/>
+</div>
+
+<div align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=i-Anurag1&theme=radical&border_radius=10" alt="streak stats"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=i-Anurag1&theme=redical&hide_border=true&area=true" width="100%"/>
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=i-Anurag1&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+</div>
+
+---
+
+## 🐍 THE FINAL BATTLE — Snake vs. Contribution Graph
+
+<p align="center"><i>Watch the snake devour a full year of grind, one commit at a time.</i></p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/i-Anurag1/i-Anurag1/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/i-Anurag1/i-Anurag1/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation eating contribution graph" src="https://raw.githubusercontent.com/i-Anurag1/i-Anurag1/output/github-contribution-grid-snake.svg" width="100%"/>
+  </picture>
+</p>
+
+> ⚙️ **Behind the scenes:** this animation is rendered daily by a GitHub Actions workflow (`snake.yml`, provided separately) that reads your real contribution graph and regenerates this SVG automatically. Drop it into `.github/workflows/` of the `i-Anurag1/i-Anurag1` repo once, and it runs forever — no manual updates ever again.
+
+---
+
+## 🎬 ACT IV — THE CINEMATIC UNIVERSE (Featured Projects)
+
+<div align="center">
+<a href="https://github.com/i-Anurag1/Fintoran"><img src="https://github-readme-stats.vercel.app/api/pin/?username=i-Anurag1&repo=Fintoran&theme=radical&hide_border=true"/></a>
+<a href="https://github.com/i-Anurag1/OffPay"><img src="https://github-readme-stats.vercel.app/api/pin/?username=i-Anurag1&repo=OffPay&theme=radical&hide_border=true"/></a>
+</div>
+<div align="center">
+<a href="https://github.com/i-Anurag1/drift-sense"><img src="https://github-readme-stats.vercel.app/api/pin/?username=i-Anurag1&repo=drift-sense&theme=radical&hide_border=true"/></a>
+<a href="https://github.com/i-Anurag1/Amazon_Sales_Trend_Analysis_AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=i-Anurag1&repo=Amazon_Sales_Trend_Analysis_AI&theme=radical&hide_border=true"/></a>
+</div>
+<div align="center">
+<a href="https://github.com/i-Anurag1/leetcode-solutions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=i-Anurag1&repo=leetcode-solutions&theme=radical&hide_border=true"/></a>
+</div>
+
+<div align="center">
+
+| 🎞️ Title | 🎭 Genre (Stack) | 📜 Plot Summary |
+|---|---|---|
+| **Fintoran** | Python | Fan-favorite (most ⭐) — a finance-focused build |
+| **OffPay** | Java | Offline payments thriller |
+| **drift-sense** | Python | Sensing & analytics slow-burn |
+| **Amazon_Sales_Trend_Analysis_AI** | Jupyter Notebook | Data-driven mystery, AI plot twist included |
+| **leetcode-solutions** | C++ | The prequel trilogy — DSA & competitive programming |
+
+</div>
+
+---
+
+## 🎤 A WORD FROM THE DIRECTOR
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</div>
+
+## 🏆 SUPPORTING CAST (Top Contributed Repo)
+
+<div align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=i-Anurag1&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
+</div>
+
+---
+
+## 🎬 POST-CREDITS SCENE
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/spider-man-hello-neighbor.gif" width="450"/>
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Sequel%20Status-In%20Development-B76CFD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Next%20Release-git%20push%20origin%20main-6c5ce7?style=for-the-badge"/>
+</p>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=18&duration=2500&pause=1000&color=B76CFD&center=true&vCenter=true&width=600&lines=THANK+YOU+FOR+WATCHING;THIS+HAS+BEEN+A+i-Anurag1+PRODUCTION;%F0%9F%8E%AC+ROLL+CREDITS...+"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer"/>
